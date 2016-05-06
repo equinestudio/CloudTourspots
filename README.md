@@ -1,6 +1,6 @@
 # CloudTourspots
 
-This Class is Gson class for [Kokyo Cloud System(公共クラウドシステム)](https://www.chiikinogennki.soumu.go.jp/k-cloud-api/search/download/)  by ministries of Japan "Soumu Sho".
+This Class is Gson class for [Kokyo Cloud System(蜈ｬ蜈ｱ繧ｯ繝ｩ繧ｦ繝峨す繧ｹ繝�繝)](https://www.chiikinogennki.soumu.go.jp/k-cloud-api/search/download/)  by ministries of Japan "Soumu Sho".
 
 # Sample Usage
 ```java
